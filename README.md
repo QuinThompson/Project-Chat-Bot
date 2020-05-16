@@ -4,10 +4,8 @@ Create a virtual enivonrment:
 2. virtualenv venv
 
 Activate the environment:
-Mas/OS-
-3. source venv/bin/activate
-Windows-
-4. venv\Scripts\activate
+3. Mas/OS - source venv/bin/activate
+4. Windows - venv\Scripts\activate
 
 Install Libaries:
 5. pip install -r requirements.txt
