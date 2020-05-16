@@ -5,13 +5,13 @@ Create a virtual enivonrment:
 
 Activate the environment:
 Mas/OS-
-3a. source venv/bin/activate
+3. source venv/bin/activate
 Windows-
-3b. venv\Scripts\activate
+4. venv\Scripts\activate
 
 Install Libaries:
-pip install -r requirements.txt
+5. pip install -r requirements.txt
 
 Run Code:
-In command line type python3 flaskapp.py
-Navigate to link and being test
+6. In command line type python3 flaskapp.py
+7. Navigate to link and being test
