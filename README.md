@@ -1,17 +1,17 @@
 # Project-Chat-Bot
-Create a virtual enivonrment
-pip install virtualenv
-virtualenv venv
+Create a virtual enivonrment:
+1. pip install virtualenv
+2. virtualenv venv
 
-Activate the environment
-Mas/OS
-source venv/bin/activate
-Windows
-venv\Scripts\activate
+Activate the environment:
+Mas/OS-
+3a. source venv/bin/activate
+Windows-
+3b. venv\Scripts\activate
 
-Install Libaries
+Install Libaries:
 pip install -r requirements.txt
 
-Run Code
+Run Code:
 In command line type python3 flaskapp.py
 Navigate to link and being test
